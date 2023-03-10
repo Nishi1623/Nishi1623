@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishi1623
-- 🌱 I’m currently learning Web tech
+- 🌱 I’m currently learning Nestjs
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://github.com/Nishi1623
 
