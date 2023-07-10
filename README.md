@@ -1,3 +1,4 @@
+![logo](https://github.com/Nishi1623/Nishi1623/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nishat Tasnim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
